@@ -2,9 +2,4 @@
 title: "NicoleSanchezFlores"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-```
+nautrally i like champagne. Of cpurse. MACRONs

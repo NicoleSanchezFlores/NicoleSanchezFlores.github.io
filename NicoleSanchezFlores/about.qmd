@@ -4,28 +4,23 @@ title: "About"
 
 About this site
 
-
 <br>
 
 ### Welcome to my website!
 
-I am a Smith College senior graduating double majoring in Statistics & Data Science and Psychology. I love research in academic spaces, specifically in social science and biostatistics and am a R enthusiast. 
+I am a Smith College senior graduating double majoring in Statistics & Data Science and Psychology. I love research in academic spaces, specifically in social science and biostatistics. I love using R
 
-
-from Brookyn, New York! 
+- from Brookyn, New York!
 
 ### Current work
 
- I plan to go to graduate school for Biostatistics or Applied Statistics with a domain in psychology.
- 
- Currently, I am working with Dr. Amanda Almond
- [https://www.citytech.cuny.edu/faculty/AAlmond] to present research on microagressions and doctor-patient relationships at the Eastern Psychological Association [https://www.easternpsychological.org/i4a/pages/index.cfm?pageID=3501]. 
- 
- I am a Peer Advisor at the Lazarus Center for Career Development
- 
- I am a First Gen Outloud Intern
+I plan to go to graduate school for Biostatistics or Applied Statistics with a domain in psychology.
+
+Currently, I am working with [Dr. Amanda Almond](https://www.citytech.cuny.edu/faculty/AAlmond) to present research on microagressions and doctor-patient relationships at the [Eastern Psychological Association](https://www.easternpsychological.org/i4a/pages/index.cfm?pageID=3501)
+
+- I am a Peer Advisor at the Lazarus Center for Career Development
+- I am a First Gen Outloud Intern
 
 ### Hometown -- Education -- Research
-
 
 [Read more about my research work..](research.html)

@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+Most of my research is in the crossroads of Psychology and Statistics. I've been working mostly in identity groups
+
+
+- Microagressions in Doctor-Patient Relationships
+
+- Leukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net 
+- 
+
+
+### Competitions
+- [WIDS Datathon 2025](https://github.com/wu-ada/wids-adhd-in-women2)
+- Five College Datafest - Savilis Real Estate Market and Industry - Where should we locate your offices in New York based on Industry? [Click here to view the PDF](/Users/nicolesanchezflores/Documents/NicoleSanchezFlores.github.io/NicoleSanchezFlores/research_images)
+
