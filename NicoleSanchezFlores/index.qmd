@@ -1,5 +1,64 @@
----
-title: "NicoleSanchezFlores"
----
 
-nautrally i like champagne. Of cpurse. MACRONs
+<center><h1 style="font-size:38px; font-weight:600; margin-top:20px;">Nicole Sanchez Flores</h1></center>
+  <img src="images/NicoleSanchezFlores.jpg" style="width:100%; border-radius:8px; box-shadow:0 0 8px rgba(0,0,0,0.15);">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap: 32px;">
+
+<!-- LEFT SIDE -->
+<div style="flex: 1; min-width:300px;">
+
+## Welcome to my website
+
+I’m **Nicole Sanchez Flores**, an undergraduate at **[Smith College](https://www.smith.edu/)** double majoring in **Statistics & Data Science and Psychology**. I am passionate about using data to understand human behavior, health, and social outcomes.
+
+I enjoy combining research, programming, and statistical modeling to explore meaningful questions most espeically  in **health analytics, machine learning, and social science research**.
+
+<br>
+
+## Current Work
+- Researching microaggressions and doctor–patient relationships with **[Dr. Amanda Almond](https://www.citytech.cuny.edu/faculty/AAlmond)**, presenting at the **[Eastern Psychological Association Conference](https://www.easternpsychological.org/i4a/pages/index.cfm?pageID=3501)**
+- Peer Advisor at the **[Lazarus Center for Career Development](https://www.smith.edu/about-smith/lazarus-center-career-development)**
+- First Gen Outloud Intern supporting first-generation student success
+
+<br>
+
+## Explore
+- [About Me](about.html)  
+- [Research & Projects](research.html)  
+- [Résumé](ALL RESUMES AND FELLOWSHIP.pdf)  
+- [LinkedIn](https://www.linkedin.com/in/nicolesanchezflores/)  
+- Email: <nsanchezflores@smith.edu>
+
+</div>
+
+::: {.column width="60%"}
+## Experience Timeline
+
+<div style="display:flex; flex-direction:column; gap:18px;">
+
+<div>
+  <img src="images/logos/MIT-Logo.png" style="width:55px; margin-bottom:4px;">
+  <br><strong>2024 – Present</strong><br>Break Through Tech AI — MIT
+</div>
+
+<div>
+  <img src="images/logos/umass_logo.png" style="width:55px; margin-bottom:4px;">
+  <br><strong>2024</strong><br>Biostatistics Summer Research — UMass Amherst
+</div>
+
+<div>
+  <img src="images/logos/nycedc_logo.png" style="width:55px; margin-bottom:4px;">
+  <br><strong>2023</strong><br>NYCEDC — Human Resources Analytics Intern
+</div>
+
+<div>
+  <img src="images/logos/smith_logo.png" style="width:55px; margin-bottom:4px;">
+  <br><strong>2023 – Present</strong><br>Peer Advisor — Lazarus Center for Career Development
+</div>
+
+<div>
+  <img src="images/logos/bm_logo.png" style="width:55px; margin-bottom:4px;">
+  <br><strong>2022</strong><br>Artist Assistant / Teen Teacher — Brooklyn Museum
+</div>
+
+</div>
+:::

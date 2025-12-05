@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – NicoleSanchezFlores</title>
+<title>Projects – NicoleSanchezFlores</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -93,16 +127,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./images/projects.html"> 
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./images/Creative_projects.html"> 
-<span class="menu-text">Creative Projects</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -120,11 +150,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a></li>
-  <li><a href="#what-im-currently-working-on" id="toc-what-im-currently-working-on" class="nav-link" data-scroll-target="#what-im-currently-working-on">What I’m currently working on</a></li>
-  <li><a href="#what-drives-me" id="toc-what-drives-me" class="nav-link" data-scroll-target="#what-drives-me">What drives me</a></li>
-  <li><a href="#hometown-education-research" id="toc-hometown-education-research" class="nav-link" data-scroll-target="#hometown-education-research">Hometown — Education — Research</a></li>
-  <li><a href="#connect-with-me" id="toc-connect-with-me" class="nav-link" data-scroll-target="#connect-with-me">Connect with me</a></li>
+  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects Gallery</a></li>
+  <li><a href="#research-projects" id="toc-research-projects" class="nav-link" data-scroll-target="#research-projects">Research Projects</a></li>
+  <li><a href="#competitions" id="toc-competitions" class="nav-link" data-scroll-target="#competitions">Competitions</a></li>
+  <li><a href="#r-package" id="toc-r-package" class="nav-link" data-scroll-target="#r-package">R Package</a></li>
   </ul>
 </nav>
     </div>
@@ -133,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -150,44 +179,46 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div style="text-align:center;">
-<p><img src="images/headshot.jpg" alt="Nicole Sanchez Flores headshot" style="width:220px; border-radius: 12px; margin-bottom: 15px;"></p>
+<section id="projects" class="level3">
+<h3 class="anchored" data-anchor-id="projects">Projects Gallery</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># carousel</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<section id="about-me" class="level3">
-<h3 class="anchored" data-anchor-id="about-me">About Me</h3>
-<p><br></p>
-<p>I’m <strong>Nicole Sanchez Flores</strong>, an undergraduate at <strong><a href="https://www.smith.edu/">Smith College</a></strong> majoring in <strong>Statistics &amp; Data Science and Psychology</strong>. I’m passionate about using data to understand human behavior and improve real-world decision-making. I’ve developed experience in <strong>R, Python, SQL, and statistical modeling</strong> through projects in machine learning, health analytics, and social sciences.</p>
-<p>I am from <strong>Brooklyn, New York</strong>, and I am especially proud to represent <strong>first-generation Latine students</strong> in academic and technical spaces.</p>
-<p><br></p>
 </section>
-<section id="what-im-currently-working-on" class="level3">
-<h3 class="anchored" data-anchor-id="what-im-currently-working-on">What I’m currently working on</h3>
-<p>I plan to pursue graduate study in <strong>Applied Statistics</strong> with a focus on psychology, health, and social impact.</p>
-<p>Right now, I am working with <strong><a href="https://www.citytech.cuny.edu/faculty/AAlmond">Dr.&nbsp;Amanda Almond</a></strong> to present research on <strong>microaggressions and doctor–patient relationships</strong> at the <strong><a href="https://www.easternpsychological.org/i4a/pages/index.cfm?pageID=3501">Eastern Psychological Association Conference</a></strong>.</p>
-<p>On campus, I am also: - a <strong>Peer Advisor</strong> at the <strong><a href="https://www.smith.edu/about-smith/lazarus-center-career-development">Lazarus Center for Career Development</a></strong> - a <strong>First Gen Outloud Intern</strong> at <strong><a href="https://www.smith.edu/">Smith College</a></strong></p>
-<p><br></p>
+<section id="research-projects" class="level2">
+<h2 class="anchored" data-anchor-id="research-projects">Research Projects</h2>
+<p>Most of my research lies at the intersection of Psychology and Statistics, with a focus on identity groups.</p>
+<ul>
+<li><p><strong>Microaggressions in Doctor–Patient Relationships</strong><br>
+Investigating how subtle discriminatory behaviors influence patient outcomes and emotional responses.</p></li>
+<li><p><strong>Leukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net</strong><br>
+Built classification models using genomic features to differentiate leukemia subtypes.<br>
+📄 <em><a href="golub.pdf">Click here to view the PDF</a></em></p></li>
+</ul>
 </section>
-<section id="what-drives-me" class="level3">
-<h3 class="anchored" data-anchor-id="what-drives-me">What drives me</h3>
-<p>I love research because it combines <strong>human stories and data</strong> where numbers can illuminate lived experiences, expose inequities, and support better policies in health and society. I’m excited by careers and research roles where I can contribute to <strong>data-driven solutions that lift communities</strong>.</p>
-<p>Check out some of my work <a href="">Projects</a></p>
-<p><br></p>
+<section id="competitions" class="level2">
+<h2 class="anchored" data-anchor-id="competitions">Competitions</h2>
+<ul>
+<li><p><strong>WIDS Datathon 2025</strong><br>
+Studied brain activity patterns associated with ADHD; analyzed differences between males and females.<br>
+🔗 <a href="https://github.com/wu-ada/wids-adhd-in-women2" class="uri">https://github.com/wu-ada/wids-adhd-in-women2</a></p></li>
+<li><p><strong>Five College Datafest 2025 – Savilis Real Estate Market and Industry</strong><br>
+Determined optimal New York City office locations based on industry clustering and demographic/business factors.<br>
+📄 <em><a href="Databosses_Datafest_2025.pdf">Click here to view the PDF</a></em></p></li>
+</ul>
 </section>
-<section id="hometown-education-research" class="level3">
-<h3 class="anchored" data-anchor-id="hometown-education-research">Hometown — Education — Research</h3>
-<p>➡️ <strong><a href="research.html">Read more about my research work</a></strong></p>
-<p><br></p>
-</section>
-<section id="connect-with-me" class="level3">
-<h3 class="anchored" data-anchor-id="connect-with-me">Connect with me</h3>
-<p><strong><a href="https://www.linkedin.com/in/nicolesanchezflores/">LinkedIn</a></strong><br>
-✉️ <strong>Email:</strong> <a href="mailto:nsanchezflores@smith.edu" class="email">nsanchezflores@smith.edu</a></p>
-</section></main></div>
+<section id="r-package" class="level2">
+<h2 class="anchored" data-anchor-id="r-package">R Package</h2>
+<ul>
+<li><strong>chchchanges</strong><br>
+Package developed as part of SDS 270 for detecting sudden shifts in time-series data.<br>
+🔗 <a href="https://github.com/sds270-f24/chchchanges" class="uri">https://github.com/sds270-f24/chchchanges</a></li>
+</ul>
 
 
+</section>
 
-
- <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -608,7 +639,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
- <!-- /content -->
+</div> <!-- /content -->
 
 
 

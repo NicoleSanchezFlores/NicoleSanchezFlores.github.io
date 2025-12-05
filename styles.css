@@ -1,0 +1,15 @@
+.profile-container {
+  float: left;
+  width: 50%;
+  padding-right: 30px;
+}
+
+.profile-photo {
+  float: right;
+  width: 40%;
+}
+
+.profile-photo img {
+  width: 100%;
+  border-radius: 6px;
+}

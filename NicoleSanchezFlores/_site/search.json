@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n\nWelcome to my website!\nI am a Smith College senior graduating double majoring in Statistics & Data Science and Psychology. I love research in academic spaces, specifically in social science and biostatistics. I love using R\n\nfrom Brookyn, New York!\n\n\n\nCurrent work\nI plan to go to graduate school for Biostatistics or Applied Statistics with a domain in psychology.\nCurrently, I am working with Dr. Amanda Almond to present research on microagressions and doctor-patient relationships at the Eastern Psychological Association\n\nI am a Peer Advisor at the Lazarus Center for Career Development\nI am a First Gen Outloud Intern\n\n\n\nHometown – Education – Research\nRead more about my research work.."
+    "text": "About Me\n\nI’m Nicole Sanchez Flores, an undergraduate at Smith College majoring in Statistics & Data Science and Psychology. I’m passionate about using data to understand human behavior and improve real-world decision-making. I’ve developed experience in R, Python, SQL, and statistical modeling through projects in machine learning, health analytics, and social sciences.\nI am from Brooklyn, New York, and I am especially proud to represent first-generation Latine students in academic and technical spaces.\n\n\n\nWhat I’m currently working on\nI plan to pursue graduate study in Applied Statistics with a focus on psychology, health, and social impact.\nRight now, I am working with Dr. Amanda Almond to present research on microaggressions and doctor–patient relationships at the Eastern Psychological Association Conference.\nOn campus, I am also: - a Peer Advisor at the Lazarus Center for Career Development - a First Gen Outloud Intern at Smith College\n\n\n\nWhat drives me\nI love research because it combines human stories and data where numbers can illuminate lived experiences, expose inequities, and support better policies in health and society. I’m excited by careers and research roles where I can contribute to data-driven solutions that lift communities.\nCheck out some of my work Projects\n\n\n\nHometown — Education — Research\n➡️ Read more about my research work\n\n\n\nConnect with me\nLinkedIn\n✉️ Email: nsanchezflores@smith.edu"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NicoleSanchezFlores",
+    "title": "\nNicole Sanchez Flores\n",
     "section": "",
-    "text": "nautrally i like champagne. Of cpurse. MACRONs"
+    "text": ":::"
   },
   {
     "objectID": "research.html#most-of-my-research-is-in-the-crossroads-of-psychology-and-statistics.-ive-been-working-mostly-in-identity-groups",
@@ -23,8 +23,113 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Projects",
     "section": "",
-    "text": "Most of my research is in the crossroads of Psychology and Statistics. I’ve been working mostly in identity groups\n\nMicroagressions in Doctor-Patient Relationships\nLeukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net Click here to view the PDF\n\n\n\nCompetitions\n\nWIDS Datathon 2025\nFive College Datafest - Savilis Real Estate Market and Industry - Where should we locate your offices in New York based on Industry? Click here to view the PDF"
+    "text": "Most of my research lies at the intersection of Psychology and Statistics, with a focus on identity groups.\n\nMicroaggressions in Doctor–Patient Relationships\nInvestigating how subtle discriminatory behaviors influence patient outcomes and emotional responses.\nLeukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net\nBuilt classification models using genomic features to differentiate leukemia subtypes.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "\nNicole Sanchez Flores\n",
+    "section": "Current Work",
+    "text": "Current Work\n\nResearching microaggressions and doctor–patient relationships with Dr. Amanda Almond, presenting at the Eastern Psychological Association Conference\nPeer Advisor at the Lazarus Center for Career Development\nFirst Gen Outloud Intern supporting first-generation student success"
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "\nNicole Sanchez Flores\n",
+    "section": "Explore",
+    "text": "Explore\n\nAbout Me\n\nResearch & Projects\n\nRésumé\n\nLinkedIn\n\nEmail: nsanchezflores@smith.edu"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "\nNicole Sanchez Flores\n",
+    "section": "Welcome to my website",
+    "text": "Welcome to my website\nI’m Nicole Sanchez Flores, an undergraduate at Smith College double majoring in Statistics & Data Science and Psychology. I am passionate about using data to understand human behavior, health, and social outcomes.\nI enjoy combining research, programming, and statistical modeling to explore meaningful questions most espeically in health analytics, machine learning, and social science research."
+  },
+  {
+    "objectID": "index.html#experience-timeline",
+    "href": "index.html#experience-timeline",
+    "title": "\nNicole Sanchez Flores\n",
+    "section": "Experience Timeline",
+    "text": "Experience Timeline\n\n\n 2024 – PresentBreak Through Tech AI — MIT\n\n\n 2024Biostatistics Summer Research — UMass Amherst\n\n\n 2023NYCEDC — Human Resources Analytics Intern\n\n\n 2023 – PresentPeer Advisor — Lazarus Center for Career Development\n\n\n 2022Artist Assistant / Teen Teacher — Brooklyn Museum"
+  },
+  {
+    "objectID": "research.html#research-projects",
+    "href": "research.html#research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Most of my research lies at the intersection of Psychology and Statistics, with a focus on identity groups.\n\nMicroaggressions in Doctor–Patient Relationships\nInvestigating how subtle discriminatory behaviors influence patient outcomes and emotional responses.\nLeukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net\nBuilt classification models using genomic features to differentiate leukemia subtypes.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "research.html#competitions",
+    "href": "research.html#competitions",
+    "title": "Projects",
+    "section": "Competitions",
+    "text": "Competitions\n\nWIDS Datathon 2025\nStudied brain activity patterns associated with ADHD; analyzed differences between males and females.\n🔗 https://github.com/wu-ada/wids-adhd-in-women2\nFive College Datafest 2025 – Savilis Real Estate Market and Industry\nDetermined optimal New York City office locations based on industry clustering and demographic/business factors.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "research.html#r-package",
+    "href": "research.html#r-package",
+    "title": "Projects",
+    "section": "R Package",
+    "text": "R Package\n\nchchchanges\nPackage developed as part of SDS 270 for detecting sudden shifts in time-series data.\n🔗 https://github.com/sds270-f24/chchchanges"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "# carousel"
+  },
+  {
+    "objectID": "projects.html#research-projects",
+    "href": "projects.html#research-projects",
+    "title": "Projects",
+    "section": "Research Projects",
+    "text": "Research Projects\nMost of my research lies at the intersection of Psychology and Statistics, with a focus on identity groups.\n\nMicroaggressions in Doctor–Patient Relationships\nInvestigating how subtle discriminatory behaviors influence patient outcomes and emotional responses.\nLeukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net\nBuilt classification models using genomic features to differentiate leukemia subtypes.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "projects.html#competitions",
+    "href": "projects.html#competitions",
+    "title": "Projects",
+    "section": "Competitions",
+    "text": "Competitions\n\nWIDS Datathon 2025\nStudied brain activity patterns associated with ADHD; analyzed differences between males and females.\n🔗 https://github.com/wu-ada/wids-adhd-in-women2\nFive College Datafest 2025 – Savilis Real Estate Market and Industry\nDetermined optimal New York City office locations based on industry clustering and demographic/business factors.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "projects.html#r-package",
+    "href": "projects.html#r-package",
+    "title": "Projects",
+    "section": "R Package",
+    "text": "R Package\n\nchchchanges\nPackage developed as part of SDS 270 for detecting sudden shifts in time-series data.\n🔗 https://github.com/sds270-f24/chchchanges"
+  },
+  {
+    "objectID": "images/Creative_projects.html",
+    "href": "images/Creative_projects.html",
+    "title": "Design Projects",
+    "section": "",
+    "text": "Design Projects\n\n\n\n\n\n\n  \n\n    \n      \n    \n\n    \n      \n    \n\n    \n      \n    \n\n  \n\n\nAcross these projects, I learned how hands-on making can strengthen the same skills I rely on as a prospective data scientist. I learned careful observation, structured experimentation, patience in iteration, and attention to meaning beyond the surface, these things can get lost in the hurried timing of finding meaning in quantitative data. Each assignment reconnected me with creativity, something that I feel like I often lose in academic settings, and it reminded me that analytical work and artistic work both require curiosity, resilience, and a willingness to explore uncertainty. Together, these projects helped me find balance between technical thinking and joyful, intuitive making both of which shape the type of data scientist I hope to become.\nI’ve used parts of the data that I collected and reflected throughout these projects.\n\n\nWomen’s Divisions of Labor — Model House Project\nThe Model House project focused on representing women’s traditional divisions of labor within the home. I created a small house model that highlights domestic tasks typically assigned to women, using objects and layout to visualize how responsibility is divided across different spaces. The project illustrates how labor is organized, distributed, and often overlooked in everyday household environments.\n\n\nPapermaking\nThe Papermaking project involved creating handmade sheets of paper using a pulp mixture enriched with ingredients meaningful to me, including salt and chile flakes. I formed, pressed, and dried the sheets, resulting in paper that physically incorporated elements tied to my family and cultural background."
+  },
+  {
+    "objectID": "images/projects.html#research-projects",
+    "href": "images/projects.html#research-projects",
+    "title": "Projects",
+    "section": "Research Projects",
+    "text": "Research Projects\nMost of my research lies at the intersection of Psychology and Statistics, with a focus on identity groups.\n\nMicroaggressions in Doctor–Patient Relationships\nInvestigating how subtle discriminatory behaviors influence patient outcomes and emotional responses.\nLeukemia Classification Based on Gene Type Using Lasso Regression and Elastic Net\nBuilt classification models using genomic features to differentiate leukemia subtypes.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "images/projects.html#competitions",
+    "href": "images/projects.html#competitions",
+    "title": "Projects",
+    "section": "Competitions",
+    "text": "Competitions\n\nWIDS Datathon 2025\nStudied brain activity patterns associated with ADHD; analyzed differences between males and females.\n🔗 https://github.com/wu-ada/wids-adhd-in-women2\nFive College Datafest 2025 – Savilis Real Estate Market and Industry\nDetermined optimal New York City office locations based on industry clustering and demographic/business factors.\n📄 Click here to view the PDF"
+  },
+  {
+    "objectID": "images/projects.html#r-package",
+    "href": "images/projects.html#r-package",
+    "title": "Projects",
+    "section": "R Package",
+    "text": "R Package\n\nchchchanges\nPackage developed as part of SDS 270 for detecting sudden shifts in time-series data.\n🔗 https://github.com/sds270-f24/chchchanges"
   }
 ]

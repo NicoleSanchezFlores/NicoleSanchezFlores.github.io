@@ -5,9 +5,14 @@ website:
   title: "NicoleSanchezFlores"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: images/projects.qmd
+      - text: Creative Projects
+        href: images/Creative_projects.qmd
 
 format:
   html:
@@ -16,4 +21,3 @@ format:
     toc: true
 
 editor: visual
-

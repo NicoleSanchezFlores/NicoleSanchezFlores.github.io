@@ -2,25 +2,51 @@
 title: "About"
 ---
 
-About this site
+<div style="text-align:center;">
+  <img src="images/headshot.jpg" 
+       alt="Nicole Sanchez Flores headshot"
+       style="width:220px; border-radius: 12px; margin-bottom: 15px;">
+</div>
+### About Me
 
 <br>
 
-### Welcome to my website!
+I’m **Nicole Sanchez Flores**, an undergraduate at **[Smith College](https://www.smith.edu/)** majoring in **Statistics & Data Science and Psychology**. I’m passionate about using data to understand human behavior and improve real-world decision-making. I’ve developed experience in **R, Python, SQL, and statistical modeling** through projects in machine learning, health analytics, and social sciences.
 
-I am a Smith College senior graduating double majoring in Statistics & Data Science and Psychology. I love research in academic spaces, specifically in social science and biostatistics. I love using R
+I am from **Brooklyn, New York**, and I am especially proud to represent **first-generation Latine students** in academic and technical spaces.
 
-- from Brookyn, New York!
+<br>
 
-### Current work
+### What I'm currently working on
 
-I plan to go to graduate school for Biostatistics or Applied Statistics with a domain in psychology.
+I plan to pursue graduate study in **Applied Statistics** with a focus on psychology, health, and social impact.
 
-Currently, I am working with [Dr. Amanda Almond](https://www.citytech.cuny.edu/faculty/AAlmond) to present research on microagressions and doctor-patient relationships at the [Eastern Psychological Association](https://www.easternpsychological.org/i4a/pages/index.cfm?pageID=3501)
+Right now, I am working with **[Dr. Amanda Almond](https://www.citytech.cuny.edu/faculty/AAlmond)** to present research on **microaggressions and doctor–patient relationships** at the **[Eastern Psychological Association Conference](https://www.easternpsychological.org/i4a/pages/index.cfm?pageID=3501)**.
 
-- I am a Peer Advisor at the Lazarus Center for Career Development
-- I am a First Gen Outloud Intern
+On campus, I am also:
+- a **Peer Advisor** at the **[Lazarus Center for Career Development](https://www.smith.edu/about-smith/lazarus-center-career-development)**
+- a **First Gen Outloud Intern** at **[Smith College](https://www.smith.edu/)**
 
-### Hometown -- Education -- Research
+<br>
 
-[Read more about my research work..](research.html)
+### What drives me
+
+I love research because it combines **human stories and data** where numbers can illuminate lived experiences, expose inequities, and support better policies in health and society. I’m excited by careers and research roles where I can contribute to **data-driven solutions that lift communities**. 
+
+Check out some of my work [Projects]()
+
+<br>
+
+### Hometown — Education — Research
+
+➡️ **[Read more about my research work](research.html)**
+
+<br>
+
+### Connect with me
+ **[LinkedIn](https://www.linkedin.com/in/nicolesanchezflores/)**  
+✉️ **Email:** <nsanchezflores@smith.edu>
+
+  </div>
+
+
